@@ -13,11 +13,11 @@
 
 | Homepage | Dashboard |
 |----------|-----------|
-| ![Homepage](./home.png) | ![Dashboard](.dashboard.png) |
+| ![Homepage](./home.png) | ![Dashboard](./dashboard.png) |
 
 | Itinerary | Expense Splitting |
 |-----------|-------------------|
-| ![Itinerary](.itinerary.png) | ![Expenses](./expenses.png) |
+| ![Itinerary](.itinerary.png) | ![Expenses](./expens.png) |
 
 ---
 
@@ -101,6 +101,7 @@ TripSquad/
 │   └── config.php
 │
 └── database.sql        # MySQL schema
+
 
 
 
