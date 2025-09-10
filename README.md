@@ -17,7 +17,7 @@
 
 | Itinerary | Expense Splitting |
 |-----------|-------------------|
-| ![Itinerary](./itinerary.png) | ![Expenses](./expense.png) |
+| ![Itinerary](./Itinerary.png) | ![Expenses](./expense.png) |
 
 ---
 
@@ -101,6 +101,7 @@ TripSquad/
 │   └── config.php
 │
 └── database.sql        # MySQL schema
+
 
 
 
