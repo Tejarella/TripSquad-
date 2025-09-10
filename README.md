@@ -5,15 +5,17 @@ Built with **React.js (frontend)** and **Core PHP + MySQL (backend)** for seamle
 
 ## 📸 Screenshots
 
-### 🏠 Homepage
-![Homepage](./assets/homepage.png)
+###  Homepage
+![Homepage](./homepage.png)
 
-### 📊 Dashboard
-![Dashboard](./assets/dashboard.png)
+###  Dashboard
+![Dashboard](./dashboard.png)
+
+###  Itinerary
+![Itinerary](./itinerary.png)
 
 ### 🗓 Itinerary
-![Itinerary](./assets/itinerary.png)
-
+![Itinerary](./expense.png)
 ---
 
 ## ✨ Features
@@ -72,4 +74,5 @@ TripSquad/
 │   └── config.php
 │
 └── database.sql        # MySQL schema
+
 
