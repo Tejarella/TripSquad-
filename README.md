@@ -1,29 +1,55 @@
 # 🌍 TripSquad
 
-TripSquad is a **trip management web app** that helps users plan trips, invite friends, share itineraries, split expenses, and keep notes — all in one place.  
-Built with **React.js (frontend)** and **Core PHP + MySQL (backend)** for seamless collaboration and management.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## 📸 Screenshots
 
-###  Homepage
-![Homepage](./homepage.png)
+| Homepage | Dashboard |
+|----------|-----------|
+| ![Homepage](./home.png) | ![Dashboard](.dashboard.png) |
 
-###  Dashboard
-![Dashboard](./dashboard.png)
+| Itinerary | Expense Splitting |
+|-----------|-------------------|
+| ![Itinerary](.itinerary.png) | ![Expenses](./expenses.png) |
 
-###  Itinerary
-![Itinerary](./itinerary.png)
-
-### 🗓 Itinerary
-![Itinerary](./expense.png)
 ---
 
-## ✨ Features
-- 🗓 **Create & Manage Trips** – Add trip details, destinations, and members dynamically.  
-- 👥 **Invite Friends** – Add/remove trip members with their details.  
-- 📅 **Shared Itinerary** – Collaboratively manage daily travel schedules.  
-- 💸 **Expense Tracking & Splitting** – Record group expenses and split fairly among members.  
-- 📊 **Dashboard** – View all trips, upcoming plans, and expense summaries.  
+## 🌱 About TripSquad
+**TripSquad** is a trip management web app designed to make travel planning collaborative and stress-free ✈️.  
+From creating trips to splitting expenses, it helps friends and groups stay organized in one place.  
+
+---
+
+## 💡 Problem Statement
+Planning group trips is often messy because:  
+- Expenses are hard to track and split fairly.  
+- It’s difficult to manage itineraries across multiple people.  
+- Communication gets scattered across chats and apps.  
+
+---
+
+## 💡 Our Solution
+We built **TripSquad**:  
+- 🗓 **Centralized trip planning** with members and itineraries.  
+- 💸 **Fair expense splitting** between participants.  
+- 📝 **Notes & optional chat** for better collaboration.  
+- 📊 **Dashboard view** for upcoming and past trips.  
+
+---
+
+## 🚀 Features
+- 👥 **Dynamic Trip Members** – Add/remove details easily.  
+- 🗓 **Itinerary Sharing** – Keep everyone on the same page.  
+- 💸 **Expense Tracking & Splitting** – Automatically divide costs fairly.  
+- 📊 **Dashboard** – View trips at a glance.  
+- 🎨 **Modern UI** – Clean cards and layouts with Bootstrap/Material UI.  
 
 ---
 
@@ -34,6 +60,7 @@ Built with **React.js (frontend)** and **Core PHP + MySQL (backend)** for seamle
 - **Version Control:** Git & GitHub  
 
 ---
+
 
 ## 🚀 Getting Started
 
@@ -48,7 +75,7 @@ Built with **React.js (frontend)** and **Core PHP + MySQL (backend)** for seamle
    npm start
 
 
-   Frontend runs at: http://localhost:3000
+   Frontend runs at: http://localhost:5173
 
    
 
@@ -74,5 +101,6 @@ TripSquad/
 │   └── config.php
 │
 └── database.sql        # MySQL schema
+
 
 
